@@ -1,5 +1,5 @@
 #!/bin/bash
-# https://github.com/faisalfs10x -135551
+# https://github.com/faisalfs10x 
 # 20-SEPT-2020
 
 echo -e "     \e[93mhello $USER@$HOSTNAME:- ";
