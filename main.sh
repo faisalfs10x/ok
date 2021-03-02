@@ -1,6 +1,6 @@
 #!/bin/bash
 # https://github.com/faisalfs10x -135551
-# 20-SEPT-2019 
+# 20-SEPT-2020
 
 echo -e "     \e[93mhello $USER@$HOSTNAME:- ";
 echo -e "       \e[92mExternal Recon";
